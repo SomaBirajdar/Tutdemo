@@ -1,0 +1,6 @@
+error.log
+hello
+*.log
+address/
+static/dir/
+dir/a
